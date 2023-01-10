@@ -1,0 +1,16 @@
+.bg-red {
+    background-color: red;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul  {
+    display: flex;
+    justify-content: center;
+    gap: 3px;
+}
+
